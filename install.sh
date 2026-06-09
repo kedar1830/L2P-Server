@@ -41,7 +41,7 @@ EOF
 echo "<h1>Server is Live!</h1>" > public/index.html
 
 # 6. Create Start Command (Lstart)
-echo "node $HOME/.Server/server.js" > $PREFIX/bin/Lstart
+echo "node /storage/emulated/0/termux/Server/server.js" > $PREFIX/bin/Lstart
 chmod +x $PREFIX/bin/Lstart
 
 # 7. Install Ngrok
