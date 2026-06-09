@@ -9,7 +9,7 @@ EX:- (Free  version) https://ienejwjwnw-hebeheb-nwbsh.ngrok-free.app
     (Upgraded version) xyz-zyx.ngrok-free.app
 </pre>
 
-for using this tool you have to get:-
+<h1> Installation Proccess:- </h1>
 <ul>
 <li>your Ngrok doamin name</li>
 <li>your port </li>
