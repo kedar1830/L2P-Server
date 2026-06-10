@@ -10,9 +10,33 @@ EX:- (Free  version) https://ienejwjwnw-hebeheb-nwbsh.ngrok-free.app
 </pre>
 
 <h1> Installation Proccess:- </h1>
+
+<ul>
+<li> pkg install git </li>
+<li> git clone https://github.com/kedar1830/L2P-Server.git </li>
+<li> cd L2P-Server </li>
+<li> bash install.sh </li>
+</ul>
+
+<h1>Requirements</h1>
+
+<ol>
+<li>NGROK account</li>
+<li>NGROK authentication token</li>
+
+<img src="NGROK authentication token">
+
+<li>NGROK static domain name</li>
+
+<img src="NGROK static domain name">
+
+</ol>
+
+<h1>Code will ask you for this</h1>
+
 <ul>
 <li>your Ngrok doamin name</li>
-<li>your port </li>
+<li>your port/ default(3000) </li>
 <li>your auth token</li>
 </ul>
 
