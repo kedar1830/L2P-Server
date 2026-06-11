@@ -24,11 +24,11 @@ EX:- (Free  version) https://ienejwjwnw-hebeheb-nwbsh.ngrok-free.app
 <li>NGROK account</li>
 <li>NGROK authentication token</li>
 
-<img src="NGROK authentication token">
+<img src="auth_token.jpg">
 
 <li>NGROK static domain name</li>
 
-<img src="NGROK static domain name">
+<img src="/domain_name.jpg" height="50%" width="50%">
 
 </ol>
 
