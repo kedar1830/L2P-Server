@@ -96,4 +96,36 @@ tmux attach-session -t $SESSION
 EOF
 chmod +x $PREFIX/bin/server
 
+cat << 'EOF' > file-edit
+
+#!/bin/bash
+
+echo "Choose File to edit:"
+echo "1) Index.html"
+echo "2) css.css"
+echo "3) javascript.js"
+
+# Read the user's input and store it in the variable 'File'
+read -p "Enter your choice (1-3): " File
+
+case $File in
+    1)
+        nano /storage/emulated/0/termux/Server/public/index.html
+        ;;
+    2)
+        nano /storage/emulated/0/termux/Server/public/css.css
+        ;;
+    3)
+        nano /storage/emulated/0/termux/Server/public/javascript.js
+        ;;
+    *)
+        echo "Invalid option. Exiting."
+        ;;
+esac
+EOF
+
+chmod +x file-edit
+
+mv file-edit $PREFIX/bin/
+
 echo "Setup complete! Type 'server' to start everything."
