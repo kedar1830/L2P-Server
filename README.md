@@ -120,6 +120,7 @@ EX:- (Free  version) https://ienejwjwnw-hebeheb-nwbsh.ngrok-free.app
 
 <h1>Jump to edit</h1>
 <h2>Now your also able to edit your Frontend code by terminal if you use default script</h2>
+<i>Command:- file-edit</i>
 
 <table border="3">
   <tr>
