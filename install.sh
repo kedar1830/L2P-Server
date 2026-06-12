@@ -2,7 +2,11 @@
 
 # 1. Update and Install
 apt update && apt upgrade -y
-pkg install nodejs tmux wget git proot -y
+pkg install nodejs tmux wget git proot fastfetch -y
+cat << 'EOF' >> /data/data/com.termux/files/usr/etc/bash.bashrc
+clear
+fastfetch
+EOF
 
 # 2. Setup Server Directory
 termux-setup-storage -y
