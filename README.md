@@ -91,7 +91,7 @@ EX:- (Free  version) https://ienejwjwnw-hebeheb-nwbsh.ngrok-free.app
 
 <table border="3">
   <tr>
-    <th>Files/Commands</th>
+    <th>Files</th>
     <th>Directories/Location</th>
   </tr>
   
@@ -112,6 +112,11 @@ EX:- (Free  version) https://ienejwjwnw-hebeheb-nwbsh.ngrok-free.app
       <td>server(L2P server)</td>
       <td>$PREFIX/bin/server</td>
     </tr>
+  </tr>
+
+  <tr>
+   <td>file-edit</td>
+   <td>$PREFIX/bin/file-edit</td>
   </tr>
   
 </table>
@@ -142,5 +147,33 @@ EX:- (Free  version) https://ienejwjwnw-hebeheb-nwbsh.ngrok-free.app
 </table>
 <hr> 
 <b>Note:-</b> <p>Css.css and javascript.js files not available are free to create it on same location of where Index.html file are created.</p>
+
+<table border="3">
+  
+  <tr>
+    <th>Commands</th>
+    <th>Used For</th>
+  </tr>
+  <tr>
+    <td>Lstart</td>
+    <td>
+      Used for only localhost server
+    </td>
+  </tr>
+  <tr>
+    <td>Pstart</td>
+    <td>Used for only public server</td>
+  </tr>
+  <tr>
+    <td>server</td>
+    <td>The master with this command your able to use both commands at same time and this is the important command</td>
+  </tr>
+  
+  <tr>
+    <td>file-edit</td>
+    <td>To edit Frontend files </td>
+  </tr>
+  
+</table>
 
 #termux #nodejs #tmux
