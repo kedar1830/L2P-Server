@@ -1,25 +1,3 @@
-<style type="text/css" media="all">
-
-  img{
-    width: 50%;
-    height: 50%;
-  }
-  
-  table{
-    background: white;
-    text-align: center;
-  }
-  
-  
-  th{
-    background-color: rgb(240,240,240);
-  }
-  
-  td{
-    background-color: rgb(240,240,240);
-  }
-  
-</style>
 
 <h1>L2P-Server <mark>(LocalHost to Public Server)</mark> </h1>
 It is advanced Server of Version Simple-Server which is in my page.
@@ -31,6 +9,8 @@ It is advanced Server of Version Simple-Server which is in my page.
 EX:- (Free  version) https://ienejwjwnw-hebeheb-nwbsh.ngrok-free.app
     (Upgraded version) xyz-zyx.ngrok-free.app
 </pre>
+
+<hr> 
 
 <h1> Installation Proccess:- </h1>
 <table border="3">
@@ -57,19 +37,24 @@ EX:- (Free  version) https://ienejwjwnw-hebeheb-nwbsh.ngrok-free.app
 
 </table>
 
+<hr> 
+
 <h1>Requirements:-</h1>
 
 <ol>
-<li>NGROK account:-</li>
+<li id="req">NGROK account:-</li>
+
 <img src="/page.jpg" alt="Ngrok homepage">
 
-<li>NGROK authentication token:-</li>
+<li id="req">NGROK authentication token:-</li>
 <img src="/auth_token.jpg" alt="auth_token">
 
-<li>NGROK static domain name:-</li>
+<li id="req">NGROK static domain name:-</li>
 <img src="/domain_name.jpg" alt="domain_name">
 
 </ol>
+
+<hr> 
 
 <h1>Code will ask you for this:-</h1>
 
@@ -81,6 +66,7 @@ EX:- (Free  version) https://ienejwjwnw-hebeheb-nwbsh.ngrok-free.app
 
 <p>This tool will ask you about this 3 things after that your code will run successfuly.</p>
 
+<hr>
 
 <h1>Which Changes/edits You can do?:-</h1>
 <ol>
@@ -94,6 +80,8 @@ EX:- (Free  version) https://ienejwjwnw-hebeheb-nwbsh.ngrok-free.app
   </details>
   <li>If you stayed default directories then you are able to edit all files in any external apps like:- Acode,htmleditor etc</li>
 </ol>
+
+<hr>
 
 <h1>Root file, Tunneling file and Master file Locations:-</h1>
 
@@ -124,3 +112,30 @@ EX:- (Free  version) https://ienejwjwnw-hebeheb-nwbsh.ngrok-free.app
   
 </table>
 
+<hr />
+
+<h1>Jump to edit</h1>
+<h2>Now your also able to edit your Frontend code by terminal if you use default script</h2>
+
+<table border="3">
+  <tr>
+    <th>File Name</th>
+    <th>Option to Choose</th>
+  </tr>
+  <tr>
+    <td>Index.html</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Css.css</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>javascript.js</td>
+    <td>3</td>
+  </tr>
+</table>
+<hr> 
+<b>Note:-</b> <p>Css.css and javascript.js files not available are free to create it on same location of where Index.html file are created.</p>
+
+#termux #nodejs #tmux
