@@ -91,7 +91,7 @@ EX:- (Free  version) https://ienejwjwnw-hebeheb-nwbsh.ngrok-free.app
 
 <table border="3">
   <tr>
-    <th>Files</th>
+    <th>Files/Commands</th>
     <th>Directories/Location</th>
   </tr>
   
